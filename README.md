@@ -11,5 +11,5 @@ This is my first personal portfolio website built using *HTML* and *CSS*. It's a
 - Contact Details with icons (Gmail, LinkedIn, GitHub)
 - Responsive design for desktop and mobile
 
-- ![Screenshot 2025-06-26 230609](https://github.com/user-attachments/assets/892fdbf5-0adc-43cc-8a15-03be1b553cfd)
+ ![Screenshot 2025-06-26 230609](https://github.com/user-attachments/assets/892fdbf5-0adc-43cc-8a15-03be1b553cfd)
 
